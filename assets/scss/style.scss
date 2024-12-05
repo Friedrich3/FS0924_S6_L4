@@ -25,6 +25,9 @@ main{
     };
     .card{
         box-shadow: 2px 2px 2px rgba(194, 193, 193, 0.425);
+        .bi-bookmark:hover{
+            color: rgb(218, 178, 4);
+        }
     }
 
 }
