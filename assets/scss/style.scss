@@ -21,6 +21,18 @@ main{
 }
 #cardContainer{
     h2{
-        
+
+    };
+    .card{
+        box-shadow: 2px 2px 2px rgba(194, 193, 193, 0.425);
+    }
+
+}
+footer{
+    li{
+    &:hover{
+        text-decoration: underline;
+    }
+
     }
 }
