@@ -1,3 +1,29 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", serif;
+  background-color: #F5F4F8;
+}
 
+nav {
+  padding: 0.5rem 1rem !important;
+  height: 10%;
+}
+
+#hero {
+  background-color: #7550FE;
+}
+#hero button:nth-child(1) {
+  background-color: #1ACB98;
+}
+
+main #underHero {
+  background-color: white;
+}
+main #underHero .image {
+  background-color: #FFEEDA !important;
+}
 
 /*# sourceMappingURL=style.css.map */

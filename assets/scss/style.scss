@@ -1,0 +1,26 @@
+@use "partials/reset";
+nav{
+    padding: 0.5rem 1rem !important;
+    height: 10%;
+}
+
+#hero{
+    background-color: #7550FE;
+    button:nth-child(1){
+        background-color: #1ACB98;
+    }   
+}
+main{
+    #underHero{
+        background-color: white;
+        .image{
+            background-color:#FFEEDA !important;
+            
+        }
+    }
+}
+#cardContainer{
+    h2{
+        
+    }
+}
